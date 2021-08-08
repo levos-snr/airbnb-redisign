@@ -11,7 +11,6 @@ function Banner() {
       {/* Banner Text for small screen */}
       <div className="absolute top-1/5  w-full sm:hidden text-center font-bold">
         <p className="text-white w-full  pt-4 text-lg md:text-5xl lg:text-6xl">
-          Olympian & Paralympian<br></br>
           Online Experiences
         </p>
         <button
