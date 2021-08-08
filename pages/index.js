@@ -14,8 +14,7 @@ export default function Home(props) {
     <div className="">
       <Head>
         <title>
-          Airbnb: Holiday Rentals, Cabins, Beach Houses, Unique Homes &
-          Experiences
+          Home | Airbnb
         </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
