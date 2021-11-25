@@ -40,7 +40,7 @@ function Map(props) {
               className="cursor-pointer animate-bounce "
               aria-label="push-pin"
             >
-              📌
+              🔻
             </p>
           </Marker>
           {selectedLocation.long === result.long ? (

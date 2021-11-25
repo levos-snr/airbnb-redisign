@@ -39,7 +39,7 @@ function Footer() {
         <p>Cancellation options</p>
         <p>Neighbourhood Support</p>
         <p>Trust &amp; Safety</p>
-        <span >(ReasonReact.stringToElement("&copy;"))</span>
+        <span >&copy; odero</span>
       </div>
     </div>
   );
