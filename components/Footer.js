@@ -40,6 +40,7 @@ function Footer() {
         <p>Cancellation options</p>
         <p>Neighbourhood Support</p>
         <p>Trust &amp; Safety</p>
+        <p>&#169</p>
       </div>
     </div>
   );

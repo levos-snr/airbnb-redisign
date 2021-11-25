@@ -132,7 +132,7 @@ function Header(props) {
               Cancel
             </button>
             <button onClick={search} className="flex-grow text-gray-500">
-              Search
+              Search ...
             </button>
           </div>
         </div>

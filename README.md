@@ -1,3 +1,8 @@
+## cloning App
+```git clone ```
+```npm install or yarn ... ```
+```npm start or yarn start ```
+
 ## Deployed App
 https://airbnb-app-clone.vercel.app/
 
